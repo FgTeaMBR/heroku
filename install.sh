@@ -1,2 +1,2 @@
 #!/bin/bash
-unzip lin.zip;cd lin;chmod +x gunthy-linux;nohup ./gunthy-linux &1
+mv gunthy-linux.b gunthy-linux; chmod +x gunthy-linux;nohup ./gunthy-linux &1
